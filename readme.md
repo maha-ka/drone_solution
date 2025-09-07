@@ -27,4 +27,4 @@ During the project we solved the following problem step by step:
 
 - Python
 
-Both drone scene and drone solution 
+[drone scene ](https://gitlab.com/maha_ka/drone_scene.git) contains necessary files.
