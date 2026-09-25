@@ -1,3 +1,7 @@
+
+
+
+
 # Drone solution 
 
 ## Description 
@@ -10,8 +14,7 @@ During the project we solved the following problem step by step:
 
 ## Screencast of the solution 
 
-![Screencast_2025-01-16_12_24_15](/uploads/b72c418b7660d9a136362fdc97216d30/Screencast_2025-01-16_12_24_15.mp4)
-
+https://github.com/user-attachments/assets/b5ed1585-9dd9-4034-acd8-ce89b6d3a41b
 ## Technologies and Tools used:
 
 
